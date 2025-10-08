@@ -1,1 +1,1 @@
-T
+This project introduces you as a data engineer to building a modern ETL pipeling with PySpark, APIs and PostgreSQL. You will learn extraction, transformation and loading while applying star schema design fro analytics-ready insights
