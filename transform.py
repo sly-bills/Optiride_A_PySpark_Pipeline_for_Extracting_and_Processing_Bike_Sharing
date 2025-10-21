@@ -121,4 +121,4 @@ def transform():
     logger.info("Stage 2 Transform complete. Data stored in processed area.")
 
 if __name__ == "__main__":
-    transform()
+    transform() 
